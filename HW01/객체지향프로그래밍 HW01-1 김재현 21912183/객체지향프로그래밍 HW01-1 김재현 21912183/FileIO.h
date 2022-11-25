@@ -6,7 +6,7 @@
 #include <math.h>
 #define MAX_DATA_NUM 10
 using namespace std;
-
+//test
 int fileInputData(ifstream& fin, int* data_array, int max_num_data);
 void getStatistics_fileOut(int* data_array, int num_data, ofstream& fout);
 #endif
