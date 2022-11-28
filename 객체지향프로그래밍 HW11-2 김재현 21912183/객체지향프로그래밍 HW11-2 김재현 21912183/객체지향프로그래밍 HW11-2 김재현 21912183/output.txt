@@ -1,0 +1,311 @@
+Inserting My Vocabularies to  . . . 
+Total 100 words in my Voca_Dictionary ..
+prohibit(v): 
+ - thesaurus(inhibit, prevent, , )
+ - example usage(Office regulations prohibit anyone from smoking inside the building. )
+promotion(n): 
+ - thesaurus(advertising, marketing, , )
+ - example usage(The promotion of the new car model cost much more than planned. )
+alert(n): 
+ - thesaurus(warning, signal, , )
+ - example usage(An alert has been issued warning residents about the flu virus )
+district(n): 
+ - thesaurus(region, area, , )
+ - example usage(The business district has restaurants and entertainment venues. )
+itinerary(n): 
+ - thesaurus(schedule, , , )
+ - example usage(The itinerary is tentative and will be finalized by this afternoon. )
+favorably(adj): 
+ - thesaurus(positively, agreeably, , )
+ - example usage(The judges thought favorably of one contestant in particular )
+assumption(n): 
+ - thesaurus(presumption, guess, , )
+ - example usage(We invested on the assumption that the stock was profitable. )
+consent(n): 
+ - thesaurus(agree, concur, assent, )
+ - example usage(When others argue their opinions, they should think deeply and express their opinions, not unconditionally consent. )
+consent(v): 
+ - thesaurus(agreement, sanction, )
+ - example usage(It is difficult to obtain consent from many people when enacting laws or making big decisions. )
+essential(adj): 
+ - thesaurus(vital, critical, necessary, )
+ - example usage(The utility company provides residents with essential public services )
+common(n): 
+ - thesaurus(common sense, park, )
+ - example usage(There are many things that affect life in school, but there is also the location of the student common. )
+common(adj): 
+ - thesaurus(usual, standard, familiar, )
+ - example usage(When you use a common object, you shouldn't just use it recklessly, but you should save it like your own. )
+contract(n): 
+ - thesaurus(agreement, pact, settlement, )
+ - example usage( )
+contract(v): 
+ - thesaurus(agree, pledge, undertake, )
+ - example usage( )
+launch(v): 
+ - thesaurus(release, introduction, , )
+ - example usage(The firm advertised the new smartphone months before its launch. )
+imperative(n): 
+ - thesaurus(necessity, essential, requirement, )
+ - example usage( )
+imperative(adj): 
+ - thesaurus(authoritative, vital, )
+ - example usage( )
+forecast(v): 
+ - thesaurus(predict, foresee, anticipate, )
+ - example usage(The analyst forecasts a quick rise in stock prices for the next month.  )
+mishap(n): 
+ - thesaurus(accident, disaster, , )
+ - example usage(Luckily, no one was injured in the mishap on the ski slope. )
+overall(adj): 
+ - thesaurus(comprehensive, whole, total, )
+ - example usage(The overall cost of the company event is about 20,000 dollars )
+enrollment(n): 
+ - thesaurus(enlistment, registration, , )
+ - example usage(Student enrollment has doubled over the past ten years. )
+retail(v): 
+ - thesaurus(sell, offer, )
+ - example usage(It is important to know that retailing a story that is not certain whether it is correct or not to others around you is likely to damage your reputation. )
+retail(adv): 
+ - thesaurus(by retail, at retail, )
+ - example usage(For retailers, it¡¯s important to deal with a store or customer, but it¡¯s also important to buy a little cheaper and better quality wholesale. )
+retail(adj): 
+ - thesaurus(shoppy, small scale, )
+ - example usage(Most of the items in the store are retail items, which are more expensive than the cost. )
+retail(n): 
+ - thesaurus(market, stock, )
+ - example usage(Consumers buy goods at the store, shops buy goods at the retail, and retailers buy goods at the wholesaler. )
+crowded(adj): 
+ - thesaurus(congested, busy, jammed, )
+ - example usage(The department store is crowded today because it is a Saturday )
+unlikely(adj): 
+ - thesaurus(improbable, doubtful, , )
+ - example usage(It is unlikely that tuition fees will ever decrease in the future. )
+temporary(adj): 
+ - thesaurus(impermanent, transitory, , )
+ - example usage(The downturn in the city's economy is expected to be temporary. )
+correctly(adj): 
+ - thesaurus(exactly, accurately, , )
+ - example usage(Children who answer all the questions correctly will be rewarded. )
+delegate(v): 
+ - thesaurus(authorize, appoint, designate, )
+ - example usage( )
+delegate(n): 
+ - thesaurus(representative, agent, substitute, )
+ - example usage( )
+entrepreneur(n): 
+ - thesaurus(businessman, , , )
+ - example usage(The entrepreneur used all of her savings to start the business. )
+fiction(n): 
+ - thesaurus(novel, tale, story, )
+ - example usage(The bookstore carries mostly works of popular fiction. )
+tardiness(n): 
+ - thesaurus(being-late, unpunctuality, , )
+ - example usage(The professor is strict about tardiness and submitting work on time. )
+endless(adj): 
+ - thesaurus(ceaseless, infinite, , )
+ - example usage(The student provided an endless list of excuses for not completing his work. )
+drastically(adj): 
+ - thesaurus(greatly, exceedingly, inordinately, )
+ - example usage(The city's subway ridership has increased drastically in recent years.  )
+unveil(v): 
+ - thesaurus(reveal, disclose, uncover, )
+ - example usage(The museum unveiled a statue created by a young sculptor. )
+compromise(v): 
+ - thesaurus(settle, conciliate, find a middle ground, )
+ - example usage(He does not like sweet dishes so I compromised by adding just a small amount of sugar. )
+compromise(n): 
+ - thesaurus(give-and-take, bargaining, accommodation, )
+ - example usage(The couple made a compromise and ordered food to take out. )
+argue(v): 
+ - thesaurus(claim, dispute, contend, )
+ - example usage(The attorney argued that her opponent's statements were inaccurate. )
+attractive(adj): 
+ - thesaurus(tempting, alluring, appealing, )
+ - example usage(The clothing on the mannequin in the display window is attractive )
+substitute(n): 
+ - thesaurus(replacement, , , )
+ - example usage(The recipe recommends substitutes for expensive ingredients. )
+upcoming(adj): 
+ - thesaurus(forthcoming, approaching, , )
+ - example usage(The radio host spent a minute publicizing an upcoming event. )
+realistic(adj): 
+ - thesaurus(practical, real, , )
+ - example usage(Investors feel more confident when they are given realistic projections )
+excursion(n): 
+ - thesaurus(trip, tour, journey, )
+ - example usage(Nearly a hundred of people joined the excursion to the island. )
+consolidate(adj): 
+ - thesaurus(combined, united, )
+ - example usage(Various opinions are important when doing homework with the same group in school or club, but consolidated opinions are important at the end. )
+mean(v): 
+ - thesaurus(require, denote, intend, )
+ - example usage(What do you mean by "perfect" ? )
+mean(adj): 
+ - thesaurus(nasty, poor, middle, miserly, paltry, )
+ - example usage(a man of mean intelligence a mean appearance )
+mean(n): 
+ - thesaurus(average, norm, median, middle, midpoint, (ant) extremity, )
+ - example usage(the mean error the golden mean the arithmetical mean the geometric mean )
+tenant(v): 
+ - thesaurus(dwell, live, )
+ - example usage(If I get older later, I hope to tenant quietly outside the city, enjoying the scenery or silence. )
+tenant(n): 
+ - thesaurus(dweller, occupant, inhabitant, )
+ - example usage(Unless you own a building, people live as tenants in the building, and it would be hopeless if the landlord raised the rent. )
+examin(v): 
+ - thesaurus(go-through, look-over, , )
+ - example usage(The woman is examining a document )
+clarity(n): 
+ - thesaurus(clearness, , , )
+ - example usage(The buyer picked this mobile phone because of the clarity of the screen. )
+eventually(adj): 
+ - thesaurus(ultimately, finally, , )
+ - example usage(Mr. Kramer eventually got over his fear of public speaking. )
+durable(adj): 
+ - thesaurus(strong, tough, , )
+ - example usage(These sneakers have a very durable sole made of rubber. )
+awareness(n): 
+ - thesaurus(perception, attention, , )
+ - example usage(The mayor wants to raise awareness about violence in the city. )
+financial(adj): 
+ - thesaurus(economic, monetary, , )
+ - example usage(Some people prefer lasting fame to financial self-sufficiency )
+misplace(v): 
+ - thesaurus(lose, , , )
+ - example usage(He misplaced his wallet and had to cancel his credit cards. )
+proposal(n): 
+ - thesaurus(proposition, , , )
+ - example usage(The proposal was rejected because the project was too costly )
+typically(adj): 
+ - thesaurus(commonly, generally, , )
+ - example usage(The tutors at the academic centers are typically young graduates. )
+distribute(v): 
+ - thesaurus(divide, hand-out, , )
+ - example usage(The training materials will be distributed during the meeting )
+overtime(n): 
+ - thesaurus(additional-hours, extra-hours, , )
+ - example usage(We have to work overtime because the office is understaffed. )
+eliminate(v): 
+ - thesaurus(remove, eradicate, , )
+ - example usage(The technicians are working hard to eliminate the computer virus. )
+minimize(v): 
+ - thesaurus(reduce, decrease, , )
+ - example usage(The automation system minimized problems caused by human error.  )
+offer(v): 
+ - thesaurus(to propose, )
+ - example usage(She must offer her banker new statistics in order to satisfy the bank's requirement for the loan. )
+offer(n): 
+ - thesaurus(proposal, )
+ - example usage(He accepted out offer to write the business plan. )
+stock(n): 
+ - thesaurus(fund, inventory, store, )
+ - example usage( )
+outline(v): 
+ - thesaurus(draft, summarize, , )
+ - example usage(Please outline the goals of your project for this month. )
+foster(adj): 
+ - thesaurus(substitute, adoptive, stand-in, )
+ - example usage( )
+foster(v): 
+ - thesaurus(nurture, raise, promote, advance, )
+ - example usage( )
+rating(n): 
+ - thesaurus(assessment, evaluation, , )
+ - example usage(The new restaurant has received a five star rating. )
+personally(adj): 
+ - thesaurus(individually, privately, directly, )
+ - example usage(The president thanked him personally at the end of the ceremony. )
+extensive(adj): 
+ - thesaurus(comprehensive, whole, , )
+ - example usage(The company's latest market survey was thorough and extensiv )
+initiate(v): 
+ - thesaurus(start, commence, begin, )
+ - example usage(It will take a few months before we can initiate the merger. )
+announce(v): 
+ - thesaurus(declare, reveal, disclose, )
+ - example usage(They will announce the winner after all of the votes are counted. )
+discontinue(n): 
+ - thesaurus(suspend, cease, halt, )
+ - example usage(We discontinued the product because it was no longer profitable. )
+critical(adj): 
+ - thesaurus(significant, vital, crucial, )
+ - example usage(An applicant's appearance is critical during a job interview. )
+solicit(v): 
+ - thesaurus(request, ask-for, , )
+ - example usage(The architect solicited advice from an engineer before beginning construction )
+search(n): 
+ - thesaurus(hunt, hunting, lookup, )
+ - example usage( )
+statement(n): 
+ - thesaurus(declaration, , , )
+ - example usage(He rephrased his statement in order to get his point across clearer )
+insightful(adj): 
+ - thesaurus(discerning, visionary, , )
+ - example usage( )
+process(adj): 
+ - thesaurus(worked, manufacturing, )
+ - example usage(Furniture sold on the market that has been process is painted in colorful colors to meet the needs of various consumers. )
+process(v): 
+ - thesaurus(handle, action, fulfil, )
+ - example usage(It is unfortunate that children who do not play comfortably in endless tension by process for more than 10 years four times every year. )
+process(n): 
+ - thesaurus(procedure, means, performance , )
+ - example usage(The process of creating a vaccine for a virus is very complicated, difficult, and long. )
+admiring(adj): 
+ - thesaurus(appreciative, , , )
+ - example usage(As the model walked across the stage, he drew many admiring glances )
+justly(adj): 
+ - thesaurus(justifiably, reasonably, rightfully, )
+ - example usage(The court case was justly tossed out before it could go to trial. )
+flavor(n): 
+ - thesaurus(taste, , , )
+ - example usage(The chef at this restaurant is very good at blending flavors )
+capacity(n): 
+ - thesaurus(accommodation, extent, , )
+ - example usage(The school cannot accept new students as it has exceeded its capacity.  )
+panel(n): 
+ - thesaurus(jury, judge, committee, )
+ - example usage(A panel selected which of the candidates to put on the short list. )
+inquire(v): 
+ - thesaurus(ask, , , )
+ - example usage(Many customers inquire about sales that have already concluded. )
+customize(v): 
+ - thesaurus(tailor, , , )
+ - example usage(You may customize your order by choosing the color and size. )
+eventual(adj): 
+ - thesaurus(final, ultimate, , )
+ - example usage(The eventual aim of the company is to expand internationally. )
+marginal(adj): 
+ - thesaurus(insignificant, minor, samll, )
+ - example usage(The improvement in her work performance was marginal. )
+warehouse(n): 
+ - thesaurus(storage, store, stockroom, )
+ - example usage(More products will be delivered from the warehouse on Saturday. )
+coordinate(adj): 
+ - thesaurus(equal in rank, equivalent, )
+ - example usage(When dealing with a person, do not ignore it or look down on it, but treat it on an coordinate footing. )
+coordinate(n): 
+ - thesaurus(equal, balance, )
+ - example usage(You use an address to tell someone where they are, but you use coordinates to tell or find a location between countries. )
+coordinate(v): 
+ - thesaurus(equal, fit, )
+ - example usage(As the business grew bigger and bigger while temporarily doing business, I began to feel the need to coordinate things. )
+expense(n): 
+ - thesaurus(cost, expenditure, , )
+ - example usage(The company reimburses employees for their travel expenses. )
+aim(v): 
+ - thesaurus(target, goal, , )
+ - example usage(We aim to become the leading Internet service provider in Europe. )
+costume(n): 
+ - thesaurus(dress, clothing, , )
+ - example usage(The producer hired a designer to make costumes for the film. )
+
+Thesaurus of [offer]: 
+offer(v): 
+ - thesaurus(to propose, )
+ - example usage(She must offer her banker new statistics in order to satisfy the bank's requirement for the loan. )
+offer(n): 
+ - thesaurus(proposal, )
+ - example usage(He accepted out offer to write the business plan. )
+

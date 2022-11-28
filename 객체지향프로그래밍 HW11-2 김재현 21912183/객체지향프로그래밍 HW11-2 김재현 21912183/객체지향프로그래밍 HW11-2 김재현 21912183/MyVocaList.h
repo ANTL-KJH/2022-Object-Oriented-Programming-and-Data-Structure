@@ -1,0 +1,122 @@
+/* MyVocaList.h */
+#ifndef MY_VOCA_LIST_H
+#define MY_VOCA_LIST_H
+#include "MyVoca.h"
+int NUM_MY_TOEIC_VOCA = 100;
+MyVoca myToeicVocaList[] =
+{
+	MyVoca("mean", NOUN, { "average", "norm", "median", "middle", "midpoint", "(ant) extremity" }, \
+		{ "the mean error", "the golden mean", "the arithmetical mean", "the geometric mean" }),
+	MyVoca("mean", ADJ, { "nasty", "poor", "middle", "miserly", "paltry" }, { "a man of mean intelligence", "a mean appearance" }),
+	MyVoca("mean", VERB, { "require", "denote", "intend" }, { "What do you mean by \"perfect\" \?" }),
+	MyVoca("offer", NOUN, { "proposal" }, { "He accepted out offer to write the business plan." }),
+	MyVoca("offer", VERB, { "to propose" }, { "She must offer her banker new statistics in order to satisfy the bank's requirement for the loan." }),
+	MyVoca("compromise", NOUN, { "give-and-take", "bargaining", "accommodation" }, { "The couple made a compromise and ordered food to take out." }),
+	MyVoca("compromise", VERB, { "settle", "conciliate", "find a middle ground" }, \
+		{ "He does not like sweet dishes so I compromised by adding just a small amount of sugar." }),
+	MyVoca("delegate", NOUN, { "representative", "agent", "substitute" }, { "" }),
+	MyVoca("delegate", VERB, { "authorize", "appoint", "designate" }, { "" }),
+	MyVoca("foster", VERB, { "nurture", "raise", "promote", "advance" }, { "" }),
+	//10
+	MyVoca("personally", ADJ, { "individually", "privately", "directly" }, { "The president thanked him personally at the end of the ceremony." }),
+	MyVoca("marginal", ADJ, { "insignificant", "minor", "samll" }, { "The improvement in her work performance was marginal." }),
+	MyVoca("justly", ADJ, { "justifiably", "reasonably", "rightfully" }, { "The court case was justly tossed out before it could go to trial." }),
+	MyVoca("initiate", VERB, { "start", "commence", "begin" }, { "It will take a few months before we can initiate the merger." }),
+	MyVoca("forecast", VERB, { "predict", "foresee", "anticipate" }, { "The analyst forecasts a quick rise in stock prices for the next month. " }),
+	MyVoca("announce", VERB, { "declare", "reveal", "disclose" }, { "They will announce the winner after all of the votes are counted." }),
+	MyVoca("discontinue", NOUN, { "suspend", "cease", "halt" }, { "We discontinued the product because it was no longer profitable." }),
+	MyVoca("attractive", ADJ, { "tempting", "alluring", "appealing" }, { "The clothing on the mannequin in the display window is attractive" }),
+	MyVoca("critical", ADJ, { "significant", "vital", "crucial" }, { "An applicant's appearance is critical during a job interview." }),
+	MyVoca("argue", VERB, { "claim", "dispute", "contend" }, { "The attorney argued that her opponent's statements were inaccurate." }),
+	//20
+	MyVoca("consolidate", ADJ, { "combined", "united" }, { "Various opinions are important when doing homework with the same group in school or club, but consolidated opinions are important at the end." }),
+	MyVoca("consent", VERB, { "agreement", "sanction" }, { "It is difficult to obtain consent from many people when enacting laws or making big decisions." }),
+	MyVoca("consent", NOUN, { "agree", "concur", "assent" }, { "When others argue their opinions, they should think deeply and express their opinions, not unconditionally consent." }),
+	MyVoca("tenant", NOUN, { "dweller", "occupant", "inhabitant" }, { "Unless you own a building, people live as tenants in the building, and it would be hopeless if the landlord raised the rent." }),
+	MyVoca("tenant", VERB, { "dwell", "live" }, { "If I get older later, I hope to tenant quietly outside the city, enjoying the scenery or silence." }),
+	MyVoca("eliminate", VERB, { "remove", "eradicate", "" }, { "The technicians are working hard to eliminate the computer virus." }),
+	MyVoca("alert", NOUN, { "warning", "signal", "" }, { "An alert has been issued warning residents about the flu virus" }),
+	MyVoca("itinerary", NOUN, { "schedule", "", "" }, { "The itinerary is tentative and will be finalized by this afternoon." }),
+	MyVoca("flavor", NOUN, { "taste", "", "" }, { "The chef at this restaurant is very good at blending flavors" }),
+	MyVoca("district", NOUN, { "region", "area", "" }, { "The business district has restaurants and entertainment venues." }),
+	//30
+	MyVoca("search", NOUN, { "hunt", "hunting", "lookup" }, { "" }),
+	MyVoca("stock", NOUN, { "fund", "inventory", "store" }, { "" }),
+	MyVoca("panel", NOUN, { "jury", "judge", "committee" }, { "A panel selected which of the candidates to put on the short list." }),
+	MyVoca("warehouse", NOUN, { "storage", "store", "stockroom" }, { "More products will be delivered from the warehouse on Saturday." }),
+	MyVoca("awareness", NOUN, { "perception", "attention", "" }, { "The mayor wants to raise awareness about violence in the city." }),
+	MyVoca("foster", ADJ, { "substitute", "adoptive", "stand-in" }, { "" }),
+	MyVoca("imperative", ADJ, { "authoritative", "vital" }, { "" }),
+	MyVoca("imperative", NOUN, { "necessity", "essential", "requirement" }, { "" }),
+	MyVoca("contract", VERB, { "agree", "pledge", "undertake" }, { "" }),
+	MyVoca("contract", NOUN, { "agreement", "pact", "settlement" }, { "" }),
+	//40
+	MyVoca("retail", NOUN, { "market", "stock" }, { "Consumers buy goods at the store, shops buy goods at the retail, and retailers buy goods at the wholesaler." }),
+	MyVoca("retail", ADJ, { "shoppy", "small scale" }, { "Most of the items in the store are retail items, which are more expensive than the cost." }),
+	MyVoca("retail", ADV, { "by retail", "at retail" }, { "For retailers, it¡¯s important to deal with a store or customer, but it¡¯s also important to buy a little cheaper and better quality wholesale." }),
+	MyVoca("retail", VERB, { "sell", "offer" }, { "It is important to know that retailing a story that is not certain whether it is correct or not to others around you is likely to damage your reputation." }),
+	MyVoca("crowded", ADJ, { "congested", "busy", "jammed" }, { "The department store is crowded today because it is a Saturday" }),
+	MyVoca("aim", VERB, { "target", "goal", "" }, { "We aim to become the leading Internet service provider in Europe." }),
+	MyVoca("endless", ADJ, { "ceaseless", "infinite", "" }, { "The student provided an endless list of excuses for not completing his work." }),
+	MyVoca("unlikely", ADJ, { "improbable", "doubtful", "" }, { "It is unlikely that tuition fees will ever decrease in the future." }),
+	MyVoca("fiction", NOUN, { "novel", "tale", "story" }, { "The bookstore carries mostly works of popular fiction." }),
+	MyVoca("tardiness", NOUN, { "being-late", "unpunctuality", "" }, { "The professor is strict about tardiness and submitting work on time." }),
+	//50
+	MyVoca("customize", VERB, { "tailor", "", "" }, { "You may customize your order by choosing the color and size." }),
+	MyVoca("examin", VERB, { "go-through", "look-over", "" }, { "The woman is examining a document" }),
+	MyVoca("clarity", NOUN, { "clearness", "", "" }, { "The buyer picked this mobile phone because of the clarity of the screen." }),
+	MyVoca("eventually", ADJ, { "ultimately", "finally", "" }, { "Mr. Kramer eventually got over his fear of public speaking." }),
+	MyVoca("promotion", NOUN, { "advertising", "marketing", "" }, { "The promotion of the new car model cost much more than planned." }),
+	MyVoca("rating", NOUN, { "assessment", "evaluation", "" }, { "The new restaurant has received a five star rating." }),
+	MyVoca("temporary", ADJ, { "impermanent", "transitory", "" }, { "The downturn in the city's economy is expected to be temporary." }),
+	MyVoca("financial", ADJ, { "economic", "monetary", "" }, { "Some people prefer lasting fame to financial self-sufficiency" }),
+	MyVoca("overtime", NOUN, { "additional-hours", "extra-hours", "" }, { "We have to work overtime because the office is understaffed." }),
+	MyVoca("launch", VERB, { "release", "introduction", "" }, { "The firm advertised the new smartphone months before its launch." }),
+	//60
+	MyVoca("mishap", NOUN, { "accident", "disaster", "" }, { "Luckily, no one was injured in the mishap on the ski slope." }),
+	MyVoca("admiring", ADJ, { "appreciative", "", "" }, { "As the model walked across the stage, he drew many admiring glances" }),
+	MyVoca("proposal", NOUN, { "proposition", "", "" }, { "The proposal was rejected because the project was too costly" }),
+	MyVoca("insightful", ADJ, { "discerning", "visionary", "" }, { "" }),
+	MyVoca("substitute", NOUN, { "replacement", "", "" }, { "The recipe recommends substitutes for expensive ingredients." }),
+	MyVoca("realistic", ADJ, { "practical", "real", "" }, { "Investors feel more confident when they are given realistic projections" }),
+	MyVoca("inquire", VERB, { "ask", "", "" }, { "Many customers inquire about sales that have already concluded." }),
+	MyVoca("favorably", ADJ, { "positively", "agreeably", "" }, { "The judges thought favorably of one contestant in particular" }),
+	MyVoca("statement", NOUN, { "declaration", "", "" }, { "He rephrased his statement in order to get his point across clearer" }),
+	MyVoca("drastically", ADJ, { "greatly", "exceedingly", "inordinately" }, { "The city's subway ridership has increased drastically in recent years. " }),
+	//70
+	MyVoca("overall", ADJ, { "comprehensive", "whole", "total" }, { "The overall cost of the company event is about 20,000 dollars" }),
+	MyVoca("upcoming", ADJ, { "forthcoming", "approaching", "" }, { "The radio host spent a minute publicizing an upcoming event." }),
+	MyVoca("entrepreneur", NOUN, { "businessman", "", "" }, { "The entrepreneur used all of her savings to start the business." }),
+	MyVoca("costume", NOUN, { "dress", "clothing", "" }, { "The producer hired a designer to make costumes for the film." }),
+	MyVoca("outline", VERB, { "draft", "summarize", "" }, { "Please outline the goals of your project for this month." }),
+	MyVoca("excursion", NOUN, { "trip", "tour", "journey" }, { "Nearly a hundred of people joined the excursion to the island." }),
+	MyVoca("misplace", VERB, { "lose", "", "" }, { "He misplaced his wallet and had to cancel his credit cards." }),
+	MyVoca("eventual", ADJ, { "final", "ultimate", "" }, { "The eventual aim of the company is to expand internationally." }),
+	MyVoca("assumption", NOUN, { "presumption", "guess", "" }, { "We invested on the assumption that the stock was profitable." }),
+	MyVoca("essential", ADJ, { "vital", "critical", "necessary" }, { "The utility company provides residents with essential public services" }),
+	//80
+	MyVoca("minimize", VERB, { "reduce", "decrease", "" }, { "The automation system minimized problems caused by human error. " }),
+	MyVoca("correctly", ADJ, { "exactly", "accurately", "" }, { "Children who answer all the questions correctly will be rewarded." }),
+	MyVoca("solicit", VERB, { "request", "ask-for", "" }, { "The architect solicited advice from an engineer before beginning construction" }),
+	MyVoca("typically", ADJ, { "commonly", "generally", "" }, { "The tutors at the academic centers are typically young graduates." }),
+	MyVoca("durable", ADJ, { "strong", "tough", "" }, { "These sneakers have a very durable sole made of rubber." }),
+	MyVoca("distribute", VERB, { "divide", "hand-out", "" }, { "The training materials will be distributed during the meeting" }),
+	MyVoca("prohibit", VERB, { "inhibit", "prevent", "" }, { "Office regulations prohibit anyone from smoking inside the building." }),
+	MyVoca("enrollment", NOUN, { "enlistment", "registration", "" }, { "Student enrollment has doubled over the past ten years." }),
+	MyVoca("unveil", VERB, { "reveal", "disclose", "uncover" }, { "The museum unveiled a statue created by a young sculptor." }),
+	MyVoca("extensive", ADJ, { "comprehensive", "whole", "" }, { "The company's latest market survey was thorough and extensiv" }),
+	//90
+	MyVoca("common", ADJ, { "usual", "standard", "familiar" }, { "When you use a common object, you shouldn't just use it recklessly, but you should save it like your own." }),
+	MyVoca("common", NOUN, { "common sense", "park" }, { "There are many things that affect life in school, but there is also the location of the student common." }),
+	MyVoca("coordinate", VERB, { "equal", "fit" }, { "As the business grew bigger and bigger while temporarily doing business, I began to feel the need to coordinate things." }),
+	MyVoca("coordinate", NOUN, { "equal", "balance" }, { "You use an address to tell someone where they are, but you use coordinates to tell or find a location between countries." }),
+	MyVoca("coordinate", ADJ, { "equal in rank", "equivalent" }, { "When dealing with a person, do not ignore it or look down on it, but treat it on an coordinate footing." }),
+	MyVoca("expense", NOUN, { "cost", "expenditure", "" }, { "The company reimburses employees for their travel expenses." }),
+	MyVoca("capacity", NOUN, { "accommodation", "extent", "" }, { "The school cannot accept new students as it has exceeded its capacity. " }),
+	MyVoca("process", NOUN, { "procedure", "means", "performance " }, { "The process of creating a vaccine for a virus is very complicated, difficult, and long." }),
+	MyVoca("process", VERB, { "handle", "action" , "fulfil" }, { "It is unfortunate that children who do not play comfortably in endless tension by process for more than 10 years four times every year." }),
+	MyVoca("process", ADJ, { "worked", "manufacturing" }, { "Furniture sold on the market that has been process is painted in colorful colors to meet the needs of various consumers." })
+	//100
+	//{ "-1", NOUN, { "" }, { "" } }, // end sentinel
+};
+#endif
