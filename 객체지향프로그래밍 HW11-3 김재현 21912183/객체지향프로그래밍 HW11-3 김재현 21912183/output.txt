@@ -1,0 +1,29 @@
+Testing SkipList<int, MyVoca*> ...
+ Inserting MyVoca toMyVoca SkipList ...
+Inserting MyVoca[0]: personally(adj): 
+ - thesaurus(individually, privately, directly, )
+ - example usage(The president thanked him personally at the end of the ceremony. )
+insert a node (personally) at level 0 
+Print Skip List Inside :current height(4)
+level 4     ------------- + oo
+level 3     -  personally + oo
+level 2     -  personally + oo
+level 1     -  personally + oo
+level 0 -oo -  personally + oo
+
+
+Inserting MyVoca[1]: marginal(adj): 
+ - thesaurus(insignificant, minor, samll, )
+ - example usage(The improvement in her work performance was marginal. )
+insert a node (marginal) at level 0 
+Print Skip List Inside :current height(4)
+level 4     ------------- ------------- + oo
+level 3     ------------- -  personally + oo
+level 2     ------------- -  personally + oo
+level 1     ------------- -  personally + oo
+level 0 -oo -    marginal -  personally + oo
+
+
+Inserting MyVoca[2]: justly(adj): 
+ - thesaurus(justifiably, reasonably, rightfully, )
+ - example usage(The court case was justly tossed out before it could go to trial. )
