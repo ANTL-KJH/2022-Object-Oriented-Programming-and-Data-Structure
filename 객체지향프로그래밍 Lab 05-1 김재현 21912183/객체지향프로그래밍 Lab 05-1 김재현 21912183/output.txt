@@ -1,0 +1,65 @@
+Initializing student array (num_students: 10)
+StudentArray (size : 10)
+Student[ st_id : 36743, name :  Sowhrw, Dept :   Kwg, birth date : (2234- 3-26), GPA :  31.84]
+Student[ st_id : 13911, name :   Kribc, Dept :   Ool, birth date : (2015- 2- 1), GPA :  10.83]
+Student[ st_id : 28772, name : Qzubsnk, Dept :   Zco, birth date : (2115- 8-16), GPA :  94.14]
+Student[ st_id : 35591, name :    Epql, Dept :   Mnm, birth date : (2212-12- 4), GPA :  72.81]
+Student[ st_id : 11387, name :  Nqmxgs, Dept :   Amj, birth date : (2276- 9-29), GPA :  54.42]
+Student[ st_id : 27121, name :   Cbibp, Dept :  Ewfu, birth date : (2779- 2-18), GPA :  65.43]
+Student[ st_id : 25238, name :  Vvxzpj, Dept :  Mtny, birth date : (2596- 9-17), GPA :  13.49]
+Student[ st_id : 20168, name :  Cxpozq, Dept :  Amjt, birth date : (2599-12-17), GPA :  65.20]
+Student[ st_id : 21056, name :  Rllbxu, Dept :   Zak, birth date : (2748- 9-22), GPA :  37.85]
+Student[ st_id : 37121, name :   Ndzzf, Dept :  Htdk, birth date : (2400- 2-17), GPA :  95.07]
+
+Sorting studentArray by student id : 
+StudentArray (size : 10)
+Student[ st_id : 11387, name :  Nqmxgs, Dept :   Amj, birth date : (2276- 9-29), GPA :  54.42]
+Student[ st_id : 13911, name :   Kribc, Dept :   Ool, birth date : (2015- 2- 1), GPA :  10.83]
+Student[ st_id : 20168, name :  Cxpozq, Dept :  Amjt, birth date : (2599-12-17), GPA :  65.20]
+Student[ st_id : 21056, name :  Rllbxu, Dept :   Zak, birth date : (2748- 9-22), GPA :  37.85]
+Student[ st_id : 25238, name :  Vvxzpj, Dept :  Mtny, birth date : (2596- 9-17), GPA :  13.49]
+Student[ st_id : 27121, name :   Cbibp, Dept :  Ewfu, birth date : (2779- 2-18), GPA :  65.43]
+Student[ st_id : 28772, name : Qzubsnk, Dept :   Zco, birth date : (2115- 8-16), GPA :  94.14]
+Student[ st_id : 35591, name :    Epql, Dept :   Mnm, birth date : (2212-12- 4), GPA :  72.81]
+Student[ st_id : 36743, name :  Sowhrw, Dept :   Kwg, birth date : (2234- 3-26), GPA :  31.84]
+Student[ st_id : 37121, name :   Ndzzf, Dept :  Htdk, birth date : (2400- 2-17), GPA :  95.07]
+
+Sorting studentArray by student name : 
+StudentArray (size : 10)
+Student[ st_id : 27121, name :   Cbibp, Dept :  Ewfu, birth date : (2779- 2-18), GPA :  65.43]
+Student[ st_id : 20168, name :  Cxpozq, Dept :  Amjt, birth date : (2599-12-17), GPA :  65.20]
+Student[ st_id : 35591, name :    Epql, Dept :   Mnm, birth date : (2212-12- 4), GPA :  72.81]
+Student[ st_id : 13911, name :   Kribc, Dept :   Ool, birth date : (2015- 2- 1), GPA :  10.83]
+Student[ st_id : 37121, name :   Ndzzf, Dept :  Htdk, birth date : (2400- 2-17), GPA :  95.07]
+Student[ st_id : 11387, name :  Nqmxgs, Dept :   Amj, birth date : (2276- 9-29), GPA :  54.42]
+Student[ st_id : 28772, name : Qzubsnk, Dept :   Zco, birth date : (2115- 8-16), GPA :  94.14]
+Student[ st_id : 21056, name :  Rllbxu, Dept :   Zak, birth date : (2748- 9-22), GPA :  37.85]
+Student[ st_id : 36743, name :  Sowhrw, Dept :   Kwg, birth date : (2234- 3-26), GPA :  31.84]
+Student[ st_id : 25238, name :  Vvxzpj, Dept :  Mtny, birth date : (2596- 9-17), GPA :  13.49]
+
+Sorting studentArray by GPA : 
+StudentArray (size : 10)
+Student[ st_id : 13911, name :   Kribc, Dept :   Ool, birth date : (2015- 2- 1), GPA :  10.83]
+Student[ st_id : 25238, name :  Vvxzpj, Dept :  Mtny, birth date : (2596- 9-17), GPA :  13.49]
+Student[ st_id : 36743, name :  Sowhrw, Dept :   Kwg, birth date : (2234- 3-26), GPA :  31.84]
+Student[ st_id : 21056, name :  Rllbxu, Dept :   Zak, birth date : (2748- 9-22), GPA :  37.85]
+Student[ st_id : 11387, name :  Nqmxgs, Dept :   Amj, birth date : (2276- 9-29), GPA :  54.42]
+Student[ st_id : 20168, name :  Cxpozq, Dept :  Amjt, birth date : (2599-12-17), GPA :  65.20]
+Student[ st_id : 27121, name :   Cbibp, Dept :  Ewfu, birth date : (2779- 2-18), GPA :  65.43]
+Student[ st_id : 35591, name :    Epql, Dept :   Mnm, birth date : (2212-12- 4), GPA :  72.81]
+Student[ st_id : 28772, name : Qzubsnk, Dept :   Zco, birth date : (2115- 8-16), GPA :  94.14]
+Student[ st_id : 37121, name :   Ndzzf, Dept :  Htdk, birth date : (2400- 2-17), GPA :  95.07]
+
+Sorting studentArray by BirthDate : 
+StudentArray (size : 10)
+Student[ st_id : 13911, name :   Kribc, Dept :   Ool, birth date : (2015- 2- 1), GPA :  10.83]
+Student[ st_id : 28772, name : Qzubsnk, Dept :   Zco, birth date : (2115- 8-16), GPA :  94.14]
+Student[ st_id : 35591, name :    Epql, Dept :   Mnm, birth date : (2212-12- 4), GPA :  72.81]
+Student[ st_id : 36743, name :  Sowhrw, Dept :   Kwg, birth date : (2234- 3-26), GPA :  31.84]
+Student[ st_id : 11387, name :  Nqmxgs, Dept :   Amj, birth date : (2276- 9-29), GPA :  54.42]
+Student[ st_id : 37121, name :   Ndzzf, Dept :  Htdk, birth date : (2400- 2-17), GPA :  95.07]
+Student[ st_id : 25238, name :  Vvxzpj, Dept :  Mtny, birth date : (2596- 9-17), GPA :  13.49]
+Student[ st_id : 20168, name :  Cxpozq, Dept :  Amjt, birth date : (2599-12-17), GPA :  65.20]
+Student[ st_id : 21056, name :  Rllbxu, Dept :   Zak, birth date : (2748- 9-22), GPA :  37.85]
+Student[ st_id : 27121, name :   Cbibp, Dept :  Ewfu, birth date : (2779- 2-18), GPA :  65.43]
+

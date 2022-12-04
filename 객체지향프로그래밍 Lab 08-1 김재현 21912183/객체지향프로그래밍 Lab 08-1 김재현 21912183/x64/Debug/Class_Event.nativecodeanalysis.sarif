@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31630.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/2학년 2학기 객체지향프로그래밍/실습/lab08/객체지향프로그래밍 lab 08-1 김재현 21912183/객체지향프로그래밍 lab 08-1 김재현 21912183/class_event.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "6995400a578b25466fd51fb93e34595f0c573907fd56f580523cbb7710315381"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/2학년 2학기 객체지향프로그래밍/실습/lab08/객체지향프로그래밍 lab 08-1 김재현 21912183/객체지향프로그래밍 lab 08-1 김재현 21912183/class_event.h"
+          },
+          "hashes": {
+            "sha-256": "144bae516dabf58aebbe5945204e546982193cba76f4124a1483511390bfdc22"
+          }
+        }
+      ]
+    }
+  ]
+}
